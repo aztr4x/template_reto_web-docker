@@ -7,3 +7,6 @@ Si quieres ejecutar el proyecto puedes ejecutar
 2. docker-compose up (para ejecutar el proyecto)
 
    Puedes cambiar los puertos expuestos si asi lo deseas
+
+   
+![alt text](https://i.imgur.com/m1V69FM.png)
